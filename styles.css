@@ -1,0 +1,57 @@
+/* .container-fluid{
+    background-image : url('file:///home/wecode/Documents/moringa-school-projects/Delani-studio/Delani%20images/backgrounds/h_img.jpg');
+    background-size : cover;
+    background-repeat : no-repeat; */
+/* } */
+#head{
+    padding-bottom: 0px;
+}
+#mouse{
+    margin-top: 70px;
+}
+#services{
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+#portfolio{
+    padding-top: 40px;
+}
+#portImages{
+    margin-bottom: 40px;
+}
+#contactsTitle{
+    margin-top: 20px;
+}
+#contacts{
+    margin-top: 10px;
+}
+#names,#email,#textarea{
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 0;
+    color: white;
+}
+::placeholder {
+    color:white;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: white;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+   color: white;
+  }
+#textArea{
+    margin-top: 20px;
+}
+#sendButton{
+    padding-top: 7px;
+}
+#social{
+    padding-top: 40px;
+    text-align: center;
+    background-color: white;
+    color:black;
+}
