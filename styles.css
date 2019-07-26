@@ -1,8 +1,11 @@
-#head{
-    padding-bottom: 0px;
+#logo{
+    margin-top: 210px;
+}
+#welcome{
+    margin-top: 20px;
 }
 #mouse{
-    margin-top: 70px;
+    margin-top: 180px;
 }
 #services{
     margin-top: 5px;
