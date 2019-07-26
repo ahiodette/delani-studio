@@ -12,8 +12,6 @@
 * An updated web browser (Chrome, Mozilla,....)
 * Internet connection
 * Search and open the webpage in Google search engine using the above URL link
-* Input the Birthday and select the gender accordingly
-* Click where it is written "Get your Akan-name" and read the provided result
 
 ## BDD
 **Input**
@@ -23,7 +21,7 @@ Fill the valid email address (Example: ***email@Example.com***)
 Type the message in the provided field for message, and finally click on ***Send email*** button.
  
 **Output**
-The user will be alerted whether either the message has been received or the input is invalid
+The user will be alerted whether, either the message has been received or the input is invalid
 
 ## Technologies used
 * This web application (for Delani Studio) has been developed using HTML, CSS and jQuery
