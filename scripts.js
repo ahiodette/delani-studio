@@ -25,16 +25,17 @@ $(document).ready(function(){
         $("#prod-descr").toggle();
     });
 
-    $("#sendButton").click(function(){
-        var names=$("#names").val;
-        var email=$("#email").val;
-        var message=$("#textArea").val;
-        if(())
-    })
+    $("#sendButton").click(function(event){
+        var names=$("#names").val();
+        var email=$("#email").val();
+        var message=$("#textArea").val();
+        if((names==="")||(email==="")||(message==="")){
+            alert("Please, fill the required fields!");
+        }
+        else{
+            alert(names+", we have received your message. Thank you for reaching out to us!");
+        }
+        
+    });
+    event.preventDefault();
 });
-
-// function mailUs(){
-//     var names = document.getElementById("names").value;
-
-//     alert(names+", we have received your message. Thank you for reaching out to us!");
-// }
