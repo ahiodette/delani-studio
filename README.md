@@ -1,17 +1,20 @@
 # Delani Studio website
 #### This is a web app that contains the informations about Delani Studio and its operations
-#### By **Odette Ahishakiye**
-### Akan-names are names that, in Ghananian traditional culture, were given to Ghananians from Akan, based on someone's birthday and gender. 
-So, even people from elsewhere, using this app, can TRACK and know which name should be given to them , if there were from Akan
-## Requirements
+### Author
+ **Odette Ahishakiye**
+#### DElani Studio is a studio that provides Software related services. It has a team of qualified software engineers who develop and design high quality software, web and mobile applications. They also serve in projects management
+
+## Link to the live site:
+
+## Requirements and installation
 *  A Device that is capable to get internet connectivity
 * An updated web browser (Chrome, Mozilla,....)
 * Internet connection
-* Search and open the app in Google search engine
+* Search and open the webpage in Google search engine using the above URL link
 * Input the Birthday and select the gender accordingly
 * Click where it is written "Get your Akan-name" and read the provided result
 
-## Link to the live site:
+
 
 
 ## BDD
