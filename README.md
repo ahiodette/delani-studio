@@ -29,7 +29,7 @@ The user will be alerted whether either the message has been received or the inp
 * This web application (for Delani Studio) has been developed using HTML, CSS and jQuery
 
 ## Support and contact details
-For more info or when need a support, do not hesitate to contact me via phone on **(+250) 786 254 561** , or email me to **ahiode6@gmail.com**.
+For more info or when need a support, do not hesitate to contact the webmaster on **ahiode6@gmail.com**.
 
 ### License
 *This application has been licenced under Moringa School*
