@@ -24,9 +24,17 @@ $(document).ready(function(){
         $("#product").toggle();
         $("#prod-descr").toggle();
     });
+
+    $("#sendButton").click(function(){
+        var names=$("#names").val;
+        var email=$("#email").val;
+        var message=$("#textArea").val;
+        if(())
+    })
 });
 
-function mailUs(){
-    var names = document.getElementById("names").value;
-    alert(names+", we have received your message. Thank you for reaching out to us!");
-}
+// function mailUs(){
+//     var names = document.getElementById("names").value;
+
+//     alert(names+", we have received your message. Thank you for reaching out to us!");
+// }
