@@ -2,7 +2,11 @@
     margin-top: 210px;
 }
 #welcome{
-    margin-top: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+}
+#slogan{
+    margin-top: 15px;
 }
 #mouse{
     margin-top: 180px;
@@ -31,7 +35,7 @@
 }
 ::placeholder {
     color:white;
-    opacity: 1; /* Firefox */
+    opacity: 3; /* Firefox */
   }
   
   :-ms-input-placeholder { /* Internet Explorer 10-11 */
@@ -42,14 +46,16 @@
    color: white;
   }
 #textArea{
-    margin-top: 20px;
+    margin-top: 3px;
 }
 #sendButton{
-    padding-top: 7px;
+    padding-top: 4px;
+    background: transparent;
+    color: white;
 }
 #social{
     padding-top: 40px;
     text-align: center;
-    background-color: white;
+    background: white;
     color:black;
 }
