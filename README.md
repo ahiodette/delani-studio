@@ -6,6 +6,7 @@
  Delani Studio is a studio that provides Software related services. It has a team of qualified software engineers who develop and design high quality software, web and mobile applications. They also serve in projects management
 
 ## Link to the live site:
+https://ahiodette.github.io/delani-studio/
 
 ## Requirements and installation
 *  A Device that is capable to get internet connectivity
